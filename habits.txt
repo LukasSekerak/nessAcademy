@@ -21,3 +21,7 @@ Takže sa treba stále učiť :)
 6. Spolupráca
 Keď dlho pracujem na niečom sám a nepodarí sa to - strácam kopu času a klesá celková produktivita.
 Kolegovia alebo tím môže mať lepší nápad, ako niečo urobiť resp. vyriešiť problém.
+
+7. Programovanie môže byť "osamelá činnosť"
+Veľa času sa trávi vo "virtuálnom svete" - čítanie dokumentácie, kódu a pod.
+Výsledok - menej času s ľuďmi, ale viac osamote.
