@@ -9,3 +9,7 @@ Nezaoberať sa príliš detailami alebo nastavovaním pracovného prostredia.
 3. Koncept zachovania jednoduchosti a konzistentnosti
 Snažiť sa uchovávať kód čo možno najjednoduchší a najkonzistentnejší.
 To pomôže potom ľadhšie čítať a upravovať nie len vlastný kód, ale aj iných kolegov.
+
+4. Mať konzistentný spôsob ako sa dostať do "zóny"
+"Zóna" - čas kedy sa len "kóduje" a pracuje a stráca sa pojem o čase - čas najvyššej produktivity.
+Je dobré si tak prispôsobiť čas, aby sme mohli pracovať bez prerušenia, lebo programovanie si vyžaduje sústredenie.
