@@ -13,3 +13,7 @@ To pomôže potom ľadhšie čítať a upravovať nie len vlastný kód, ale aj 
 4. Mať konzistentný spôsob ako sa dostať do "zóny"
 "Zóna" - čas kedy sa len "kóduje" a pracuje a stráca sa pojem o čase - čas najvyššej produktivity.
 Je dobré si tak prispôsobiť čas, aby sme mohli pracovať bez prerušenia, lebo programovanie si vyžaduje sústredenie.
+
+5. Neprestávať sa učiť a vychádzať zo svojej "konfortnej zóny"
+Keď dlho zotrvávame pri činnostiach, ktoré poznáme a sú nám známe, neučíme sa.
+Takže sa treba stále učiť :)
