@@ -5,3 +5,7 @@ Prípadne výjsť aj na čerstvý vzduch.
 
 2. Dávať pozor na cieľ a urobiť všetko, aby bol dosiahnutý cieľ. 
 Nezaoberať sa príliš detailami alebo nastavovaním pracovného prostredia.
+
+3. Koncept zachovania jednoduchosti a konzistentnosti
+Snažiť sa uchovávať kód čo možno najjednoduchší a najkonzistentnejší.
+To pomôže potom ľadhšie čítať a upravovať nie len vlastný kód, ale aj iných kolegov.
